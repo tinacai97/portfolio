@@ -70,15 +70,11 @@ pre {
    ========================================================================== */
 
 /**
- * Remove the gray background on active links in IE 10. Make links blue.
+ * Remove the gray background on active links in IE 10.
  */
 
 a {
   background-color: transparent;
-}
-
-a:link {
-    color: blue;
 }
 
 /**
